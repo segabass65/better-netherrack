@@ -1,27 +1,32 @@
 [project]
-name = "PACK NAME"
-version = "PACK VERSION"
+name = "better-netherrack"
+version = "1.2.1"
 packs-dir = "packs"
 src-dir = "src"
 
-# Optional
-# [[project.authors]]
-# name = "PACK AUTHOR"
-# email = "PACK AUTHOR'S EMAIL"
+[[project.authors]]
+name = "AT-3109"
 
-# Optional
-# [project.urls]
-# Author = "PACK AUTHOR URL"
-# Repository = "PACK REPOSITORY URL"
-# Modrinth = " PACK MODRINTH URL"
-# CurseForge = "PACK CURSEFORGE URL"
+[[project.authors]]
+name = "SegaBASS (segabass65)"
+email = "segabass65@proton.me"
 
-# Keep this
+[project.urls]
+Author = "https://github.com/segabass65"
+Repository = "https://github.com/segabass65/better-netherrack"
+Modrinth = "https://modrinth.com/resourcepack/better-netherrack"
+
+[[tool.better-old-netherrack.authors]]
+name = "AT-3109"
+
+[tool.better-old-netherrack.urls]
+Author = "https://modrinth.com/user/AT-3109"
+Modrinth = "https://modrinth.com/resourcepack/better-old-netherrack"
+
 [[tool.mc-pack-env.authors]]
 name = "SegaBASS (segabass65)"
 email = "segabass65@proton.me"
 
-# Optional
 [tool.mc-pack-env.urls]
 Author = "https://github.com/segabass65"
 Repository = "https://github.com/segabass65/mc-pack-env"
