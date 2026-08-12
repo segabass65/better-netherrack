@@ -1,9 +1,20 @@
-<h1 align="center">
-  <img src="assets/icon.png" width="256" alt="Icon"><br/>
-  Minecraft Pack Environment 📦
-</h1>
+<div align="center">
+  <h1>
+    <img src="src/pack.png" width="256" alt="Icon"/><br/>
+    Better Netherrack<br/>
+    <img src="https://img.shields.io/badge/Versions-1.6.1_--_1.15.2-purple?style=for-the-badge" alt="Versions 1.6.1 - 1.15.2">
+    <img src="https://img.shields.io/badge/Edition-Java-orange?style=for-the-badge" alt="Java Edition"><br/>
+    <a href="https://modrinth.com/resourcepack/better-netherrack">
+      <img src="https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth" alt="Available on Modrinth"></img>
+    </a>
+  </h1>
+</div>
 
-A development environment and template designed to automate the packaging process for Minecraft resource packs and data packs.
+**A Minecraft Java Edition resource pack** that beautifully refines the infamous Netherrack texture while honoring its roots. Instead of completely changing the iconic block, this pack smooths out the harsh, noisy patterns of the classic texture to make the Nether much easier on the eyes and comfortable for long exploration sessions.
+
+## 🔍 Overview
+
+![Screenshot](assets/screenshot.png)
 
 ## 🔗 Dependencies
 
@@ -39,9 +50,7 @@ If you prefer not to use Nix, or if you are on a system that doesn't support it,
    make
    ```
 
-## 📄 License & Ownership
+## 💝 Acknowledgements
 
-This repository is licensed under the [MIT License](LICENSE). 
-
-* **The Environment:** This **license applies** strictly to the automation scripts and configurations provided by the author.
-* **Your Content:** This **license does not apply** to any resource packs, data packs, textures, or models that you create. Everything you add for your packs belongs entirely to you. You are free to distribute your packs under any license you choose.
+* This pack is a backport of [Better Old Netherrack](https://modrinth.com/resourcepack/better-old-netherrack) originally created by [AT-3109](https://modrinth.com/user/AT-3109).
+* This repository is generated from the [mc-pack-env](https://github.com/segabass65/mc-pack-env) template.
