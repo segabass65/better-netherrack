@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Classic netherrack, but easier on the eyes",
+    "pack_format": 5,
+    "supported_formats": [1, 5]
+  }
+}
