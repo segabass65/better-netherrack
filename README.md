@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img src="src/pack.png" width="256" alt="Icon"/><br/>
-    Better Netherrack<br/>
+    Better Netherrack 🔥<br/>
     <img src="https://img.shields.io/badge/Versions-1.6.1_--_1.15.2-purple?style=for-the-badge" alt="Versions 1.6.1 - 1.15.2">
     <img src="https://img.shields.io/badge/Edition-Java-orange?style=for-the-badge" alt="Java Edition"><br/>
     <a href="https://modrinth.com/resourcepack/better-netherrack">
